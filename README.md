@@ -26,13 +26,17 @@
 
 
 ## 📂 파일 구조
+
+```
 personal-intro/
-├── index.html
-├── background.jpg
-├── reading.jpg
-├── picture.jpg
-├── caffee.jpg
-└── README.md
+├── index.html           # 메인 HTML 파일
+├── background.jpg       # 배경 이미지
+├── reading.jpg          # 책 읽는 사진
+├── picture.jpg          # 사진 찍는 사진
+├── caffee.jpg           # 카페 사진
+└── README.md            # 프로젝트 설명 파일
+```
+
 
 ## 🙋‍♀️ 만든이
 
